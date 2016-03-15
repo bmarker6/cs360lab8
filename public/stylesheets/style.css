@@ -1,0 +1,21 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+background-color: AliceBlue;
+}
+
+a {
+  color: #00B7FF;
+}
+
+img {
+height: 10em;
+}
+
+li {
+margin: 1em;
+background-color: SkyBlue;
+}
+
+ul {
+list-style-type: none;
+}

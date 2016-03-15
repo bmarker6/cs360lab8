@@ -1,0 +1,43 @@
+nohup: ignoring input
+
+> comments@0.0.0 start /opt/bitnami/apache2/htdocs/CS360/comments
+> node ./bin/www
+
+Connected
+[0mGET / [32m200 [0m192.541 ms - 788[0m
+[0mGET /javascripts/comments.js [36m304 [0m63.686 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.867 ms - -[0m
+In the GET route?
+[ { __v: 0,
+    Image: 'https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg',
+    Comment: 'meow',
+    Name: 'cat',
+    _id: 56e749b46babcc364cd59282 },
+  { __v: 0,
+    Image: 'https://media4.giphy.com/media/AposSatwmTvUc/200_s.gif',
+    Comment: 'yummmy',
+    Name: 'J Money Swag Time',
+    _id: 56e74bd09dc1d3684cd0f18e },
+  { __v: 0,
+    Image: 'http://25.media.tumblr.com/1fbd182485157b6ddc99933a1906842b/tumblr_mxd1ksBTpx1t41tx1o1_500.gif',
+    Comment: 'rawwwrrrr',
+    Name: 'Sloth Pizza King',
+    _id: 56e74c5b9dc1d3684cd0f18f } ]
+[0mGET /comment [36m304 [0m393.737 ms - -[0m
+In the GET route?
+[ { __v: 0,
+    Image: 'https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg',
+    Comment: 'meow',
+    Name: 'cat',
+    _id: 56e749b46babcc364cd59282 },
+  { __v: 0,
+    Image: 'https://media4.giphy.com/media/AposSatwmTvUc/200_s.gif',
+    Comment: 'yummmy',
+    Name: 'J Money Swag Time',
+    _id: 56e74bd09dc1d3684cd0f18e },
+  { __v: 0,
+    Image: 'http://25.media.tumblr.com/1fbd182485157b6ddc99933a1906842b/tumblr_mxd1ksBTpx1t41tx1o1_500.gif',
+    Comment: 'rawwwrrrr',
+    Name: 'Sloth Pizza King',
+    _id: 56e74c5b9dc1d3684cd0f18f } ]
+[0mGET /comment [36m304 [0m33.664 ms - -[0m
